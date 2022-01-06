@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+.btn {
+  border-radius: 30px !important;
+  padding: 10px 30px !important;
+}
+.btn:hover {
+ background-color: blue !important;
+ color: white !important;
+ /* padding: 5px 20px; */
+ border-radius: 30px;
+}
+.box {
+  box-shadow: 'rgba(100, 100, 111, 0.2) 0px 7px 29px 0px';
+  width: 80% !important;
+}
+.box:hover {
+  width: 90% !important;
+}
